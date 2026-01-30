@@ -1,15 +1,23 @@
-<h1 align="center">Привет! 👋 Я FUXKVOB</h1>
+<h1 align="center">FUXKVOB</h1>
 
 <p align="center">
-  Разрабатываю мобильные приложения, backend, AI и экспериментирую с новыми технологиями.
-</p>
-
-<h2 align="center">🛠 Мои основные технологии</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,rust,py,go,ai" alt="Мои навыки" />
+  Full-Stack Developer | Mobile & Backend | AI Enthusiast
 </p>
 
 <p align="center">
-  Flutter • Rust • Python • Go • AI / ML
+  Разрабатываю кросс-платформенные мобильные приложения, надёжные backend-сервисы и экспериментирую с машинным обучением и ИИ-инструментами.
+</p>
+
+<h2 align="center">🛠 Основной стек технологий</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,rust,py,go,ai" alt="Технологии" />
+</p>
+
+<p align="center">
+  Flutter & Dart • Rust • Python • Go • AI / Machine Learning
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FUXKVOB&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FUXKVOB&theme=transparent&hide_border=true" alt="Streak" width="48%" />
 </p>
