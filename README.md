@@ -25,7 +25,7 @@
 | Flutter/Dart | Go, Rust, Python | TensorFlow, PyTorch |
 | Riverpod, BLoC | Gin, Actix, FastAPI | LLMs, CV |
 
-**Инструменты:** Docker, PostgreSQL, Redis, Git, Linux
+**Инструменты:** Docker, PostgreSQL, Redis, Git,
 
 ---
 
@@ -41,7 +41,7 @@
 ### 📫 Контакты
 
 <p align="center">
-  <a href="https://t.me/FUXKVOB">
+  <a href="https://t.me/rxzsu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://github.com/FUXKVOB">
