@@ -13,8 +13,7 @@
 
 - 🔭 Работаю над [WebBou](https://github.com/FUXKVOB/WebBou)
 - 🌱 Изучаю: AI/ML, Rust, Go
-- 👯 Ищу: collaboration над open-source
-- 📫 Контакт: FUXKVOB
+- 📫 Контакт: rxzsu
 
 ---
 
@@ -47,8 +46,4 @@
   <a href="https://github.com/FUXKVOB">
     <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Dart-0175C2?style=flat-square" alt="Built with Dart" />
 </p>
